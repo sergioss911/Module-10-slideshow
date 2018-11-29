@@ -1,4 +1,4 @@
-var myImages =["module 10 (2).PNG	","CSS_Validator.PNG","Speed_Validator.PNG "];
+var myImages =["module 10 (2).PNG	","Module 10 (3).PNG","Speed_Validator.PNG "];
 
 
 
